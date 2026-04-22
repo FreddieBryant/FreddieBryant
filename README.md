@@ -17,8 +17,6 @@ Phase 4: Professional Tooling (Docker & Testing)
 Latest Post: The Great Swap: Why I Stopped Building for Desktop First (Update with your actual link!)
 Previous Post: The Clean Slate: Why Every Project Needs a Global Reset
 📫 Connect with Me
-### 📫 Connect with Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Medium](https://shields.io)](https://medium.com)
+LinkedIn | Medium
 
 
