@@ -1,22 +1,24 @@
-Hi there, I'm Freddie! 👋
-🚀 MERN Stack Journey: Building My Future in Public
-I'm a self-taught developer skipping the traditional college route and committing to the daily grind. Currently mastering the MERN Stack via the Code with Mosh Lifetime Membership.
 🎨 What I'm Building With Right Now
-HTML5 CSS3 Flexbox CSS Grid (Mobile-First)
+HTML5 | CSS3 | Flexbox | CSS Grid (Mobile-First)
+ 
 🏆 Latest Breakthroughs
-✅ Mobile-First Refactor: Successfully moved from Desktop-First to a "Simple Stack" (1fr) logic, drastically reducing CSS complexity.
-✅ Responsive Nav Swaps: Mastered transitioning vertical mobile menus to horizontal desktop headers using flex-direction.
-✅ The "Padding Bumper": Solved edge-alignment issues with justify-content using strategic container padding.
-✅ Global Reset Systems: Implemented "The Clean Slate" for predictable cross-browser styling.
+Mobile-First Refactor: Moved from Desktop-First to a "Simple Stack" logic.
+Responsive Nav Swaps: Transitioning vertical menus to horizontal headers.
+The "Padding Bumper": Solved edge-alignment issues with strategic padding.
+Global Reset Systems: Implemented "The Clean Slate" for cross-browser styling.
+ 
 📅 12-Month Roadmap
 Phase 1: Foundations (HTML5 & CSS3 — Next Up: Typography 🚀)
 Phase 2: Mastering Frontend (JavaScript & React — Coming Soon)
 Phase 3: Backend & Database (Node.js & SQL)
 Phase 4: Professional Tooling (Docker & Testing)
+ 
 ✍️ Learning Out Loud
-Latest Post: The Great Swap: Why I Stopped Building for Desktop First (Update with your actual link!)
+Latest Post: The Great Swap: Why I Stopped Building for Desktop First
 Previous Post: The Clean Slate: Why Every Project Needs a Global Reset
+ 
 📫 Connect with Me
 LinkedIn | Medium
+
 
 
