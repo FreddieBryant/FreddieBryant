@@ -8,27 +8,27 @@ I'm a self-taught developer skipping the traditional college route and committin
 
 ### 🎨 What I'm Building With Right Now
 
-HTML5 | CSS3 | Flexbox | CSS Grid (Mobile-First)
+HTML5 | CSS3 | Flexbox | CSS Grid | **Typography & UI Design**
 
 &nbsp;
 
 ### Latest Breakthroughs:
 
+✅ **Precision Typography:** Implemented vertical rhythm using relative margins and unitless line-height for perfect spacing.
+
+✅ **Horizontal Tuning:** Mastered negative tracking (-0.02em) on Inter headers for a professional, high-end look.
+
+✅ **UI Refinement:** Refactored navigation and footer elements with uppercase transforms and proportional letter-spacing.
+
+✅ **The 62.5% Trick:** Simplified my CSS math for better scalability across the entire site.
+
 ✅ **Mobile-First Refactor:** Successfully moved from Desktop-First to a "Simple Stack" (1fr) logic.
-
-✅ **Responsive Nav Swaps:** Mastered transitioning vertical mobile menus to horizontal desktop headers.
-
-✅ **The "Padding Bumper:** Solved edge-alignment issues with justify-content and container padding.
-
-✅ **Global Reset Systems:** Implemented "The Clean Slate" for predictable cross-browser styling.
-
-✅ **The 62.5% Trick:** Simplified my CSS math for better scalability.
 
 &nbsp;
 
 ### 📅 12-Month Roadmap
 
-* **Phase 1: Foundations** (HTML5 & CSS3 - Mastered Layout! **Next: Typography** 🚀)
+* **Phase 1: Foundations** (HTML5 & CSS3 - Mastered Layout & **Typography**! 🚀)
 
 * **Phase 2: Mastering Frontend** (JavaScript & React - Coming Soon)
 
@@ -42,7 +42,8 @@ HTML5 | CSS3 | Flexbox | CSS Grid (Mobile-First)
 
 I write weekly about my journey to help other self-taught devs.
 
-**Latest Post:** [The Great Swap: Why I Stopped Building for Desktop First](https://medium.com/@freddie.bryantk3)
+**Latest Post:** [The Great Swap: Why I Stopped Building for Desktop First](https://medium.com)
+
 
 **Previous Post:** [The Clean Slate: Why Every Project Needs a Global Reset](https://medium.com/@freddie.bryantk3)
 
