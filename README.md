@@ -8,31 +8,31 @@ I'm a self-taught developer skipping the traditional college route and committin
 
 ### 🎨 What I'm Building With Right Now
 
-HTML5 | CSS3 | Flexbox | CSS Grid | **Typography & UI Design**
+HTML5 | CSS3 | Flexbox | CSS Grid | **Forms Architecture** | **UI/UX Polish**
 
 &nbsp;
 
 ### Latest Breakthroughs:
 
-✅ **Precision Typography:** Implemented vertical rhythm using relative margins and unitless line-height for perfect spacing.
+✅ **Semantic Forms Architecture:** Engineered robust input layout flows grouping elements cleanly with custom accessibility hooks.
 
-✅ **Horizontal Tuning:** Mastered negative tracking (-0.02em) on Inter headers for a professional, high-end look.
+✅ **Framework Literacy:** Built and evaluated identical layout instances using heavyweight frameworks (Bootstrap 5) vs. minimalist semantic tag style tools (Milligram.css).
 
-✅ **UI Refinement:** Refactored navigation and footer elements with uppercase transforms and proportional letter-spacing.
+✅ **Interaction States:** Mastered smooth multi-state interactive transitions utilizing `rgba()` shadow glows to isolate focus points.
 
-✅ **The 62.5% Trick:** Simplified my CSS math for better scalability across the entire site.
+✅ **Inheritance Mastery:** Solved browser font rendering inconsistencies on nested inputs using explicitly forced typography inheritance properties.
 
-✅ **Mobile-First Refactor:** Successfully moved from Desktop-First to a "Simple Stack" (1fr) logic.
+✅ **Mobile-First Refactor:** Successfully moved from Desktop-First to a "Simple Stack" (1fr) responsive grid layout logic.
 
 &nbsp;
 
 ### 📅 12-Month Roadmap
 
-* **Phase 1: Foundations** (HTML5 & CSS3 - Mastered Layout & **Typography**! 🚀)
+* **Phase 1: Foundations** (HTML5 & CSS3 - Form Architecture, Grid & Minimalist Frameworks Mastered! 🚀)
 
 * **Phase 2: Mastering Frontend** (JavaScript & React - Coming Soon)
 
-* **Phase 3: Backend & Database** (Node.js & SQL)
+* **Phase 3: Backend & Database** (Node.js & MongoDB)
 
 * **Phase 4: Professional Tooling** (Docker & Testing)
 
@@ -42,17 +42,12 @@ HTML5 | CSS3 | Flexbox | CSS Grid | **Typography & UI Design**
 
 I write weekly about my journey to help other self-taught devs.
 
-**Latest Post:** [The Great Swap: Why I Stopped Building for Desktop First](https://medium.com)
+**Latest Post:** [The Framework Illusion: Why Writing Raw Form CSS Changes How You See Bootstrap](https://medium.com)
 
-
-**Previous Post:** [The Clean Slate: Why Every Project Needs a Global Reset](https://medium.com/@freddie.bryantk3)
+**Previous Post:** [The Great Swap: Why I Stopped Building for Desktop First](https://medium.com)
 
 &nbsp;
 
 ### 📫 Connect with Me
 
 [LinkedIn](https://linkedin.com) | [Medium](https://medium.com/@freddie.bryantk3)
-
-
-
-
