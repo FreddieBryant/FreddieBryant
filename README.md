@@ -25,7 +25,7 @@ HTML5 | CSS3 | Flexbox | CSS Grid | **BEM Methodology** | **Multi-Tier File Arch
 
 ### 📅 12-Month Roadmap
 * **Phase 1: Foundations** (HTML5 & CSS3 - Form Architecture, Grid & Minimalist Frameworks Mastered! 🚀)
-* **Phase 2: Mastering Frontend** (JavaScript & React)
+* **Phase 2: Mastering Frontend** (JavaScript & React - Coming Soon!)
 * **Phase 3: Backend & Database** (Node.js & MongoDB)
 * **Phase 4: Professional Tooling** (Docker & Testing)
 
